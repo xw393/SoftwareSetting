@@ -1,45 +1,34 @@
 {
-    "added_words":
-    [
-        "What’s",
-        "dataset？"
-    ],
-    "caret_extra_bottom": 0,
-    "caret_extra_top": 0,
-    "caret_extra_width": 6,
-    "caret_style": "phase",
-    "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-    "dictionary": "Packages/Language - English/en_US.dic",
-    "font_face": "Menlo",
-    "font_options":
-    [
-        "subpixel_antialias"
-    ],
-    "font_size": 13,
-    "highlight_line": true,
-    "ignored_packages":
-    [
-        "LaTeXing",
-        "LaTeXTools",
-        "Markdown",
-        "Vintage"
-    ],
-    "ignored_words":
-    [
-        "quant"
-    ],
-    "line_padding_bottom": 0,
-    "line_padding_top": 0,
-    "rulers":
-    [
-        85,
-        120
-    ],
-    "spell_check": true,
-    "tab_size": 4,
-    "translate_tabs_to_spaces": true,
-    "trim_trailing_white_space_on_save": true,
-    "wide_caret": true,
-    "word_wrap": true,
-    "wrap_width": 90
+	"bold_folder_labels": true,
+	"caret_extra_width": 8,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/SublimeLinter/Monarch (SL).tmTheme",
+	"fade_fold_buttons": false,
+	"font_face": "Source Code Pro Medium",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 10.5,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"numix_folder_icons": true,
+	"rulers":
+	[
+		85,
+		120
+	],
+	"tab_size": 4,
+	"theme": "Numix Dark Light Blue.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true,
+	"word_wrap": true,
+	"wrap_width": 120,
+	"spell_check": true
 }
